@@ -1,0 +1,24 @@
+C:\Users\Restinda\Documents\Visual Studio 2010\Projects\Rental\Rental\obj\x86\Debug\Rental.FrmDataMobil.resources
+C:\Users\Restinda\Documents\Visual Studio 2010\Projects\Rental\Rental\obj\x86\Debug\Rental.FrmDataPelanggan.resources
+C:\Users\Restinda\Documents\Visual Studio 2010\Projects\Rental\Rental\obj\x86\Debug\Rental.Form1.resources
+C:\Users\Restinda\Documents\Visual Studio 2010\Projects\Rental\Rental\obj\x86\Debug\Rental.Resources.resources
+C:\Users\Restinda\Documents\Visual Studio 2010\Projects\Rental\Rental\obj\x86\Debug\Rental.vbproj.GenerateResource.Cache
+C:\Users\Restinda\Documents\Visual Studio 2010\Projects\Rental\Rental\obj\x86\Debug\Rental.FrmTransaksi.resources
+C:\Users\Restinda\Documents\Visual Studio 2010\Projects\Rental\Rental\bin\Debug\Rental.exe
+C:\Users\Restinda\Documents\Visual Studio 2010\Projects\Rental\Rental\bin\Debug\Rental.pdb
+C:\Users\Restinda\Documents\Visual Studio 2010\Projects\Rental\Rental\bin\Debug\Rental.xml
+C:\Users\Restinda\Documents\Visual Studio 2010\Projects\Rental\Rental\obj\x86\Debug\Rental.exe
+C:\Users\Restinda\Documents\Visual Studio 2010\Projects\Rental\Rental\obj\x86\Debug\Rental.xml
+C:\Users\Restinda\Documents\Visual Studio 2010\Projects\Rental\Rental\obj\x86\Debug\Rental.pdb
+E:\Semester3\SEP\Rental\Rental\obj\x86\Debug\Rental.exe
+E:\Semester3\SEP\Rental\Rental\obj\x86\Debug\Rental.xml
+E:\Semester3\SEP\Rental\Rental\obj\x86\Debug\Rental.pdb
+E:\Semester3\SEP\Rental\Rental\bin\Debug\Rental.exe
+E:\Semester3\SEP\Rental\Rental\bin\Debug\Rental.pdb
+E:\Semester3\SEP\Rental\Rental\bin\Debug\Rental.xml
+E:\Semester3\SEP\Rental\Rental\obj\x86\Debug\Rental.FrmDataMobil.resources
+E:\Semester3\SEP\Rental\Rental\obj\x86\Debug\Rental.FrmDataPelanggan.resources
+E:\Semester3\SEP\Rental\Rental\obj\x86\Debug\Rental.Form1.resources
+E:\Semester3\SEP\Rental\Rental\obj\x86\Debug\Rental.FrmTransaksi.resources
+E:\Semester3\SEP\Rental\Rental\obj\x86\Debug\Rental.Resources.resources
+E:\Semester3\SEP\Rental\Rental\obj\x86\Debug\Rental.vbproj.GenerateResource.Cache
